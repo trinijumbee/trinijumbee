@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trinijumbee
-- 👀 I’m interested in IOT and web development
-- 🌱 I’m currently enrolled in The Odin Project
+- 👀 I’m interested in Data Science and Building Webapps 
+- 🌱 I'm.....
 - 📫 You can email me @cbdesignstt@gmail.com
 
 
